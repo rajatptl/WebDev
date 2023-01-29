@@ -1,0 +1,38 @@
+body{
+    margin: 121px 139px 121px 139px;
+    color: #858585
+}
+h1{color: black}
+h3{color: black}
+h4{color: black}
+b{color: #424242}
+.co2{
+    color:#424242;
+    }
+.p1{
+    position: relative;
+    top: 100px
+}
+.c1{
+    display: incline;
+    position: relative;
+    left: 110px;
+    top:75px
+}
+.c3{
+    display: block;
+    position: relative;
+    left: 110px;
+    top:75px
+}
+.c2{
+    display: inline;
+}
+.b1{
+    background-color: #ededed;
+    
+}
+.code{
+    border: 2px solid #d8d8d8
+
+}
